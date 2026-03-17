@@ -4,7 +4,7 @@ import RightCardContent from './RightCardContent'
 
 const RightCard = (props) => {
     return (
-        <div className='h-full w-80 shrink-0 relative overflow-hidden rounded-4xl'>
+        <div className='h-[95%] w-100 shrink-0 relative overflow-hidden rounded-4xl'>
             <img className="w-full h-full object-cover" src={props.img} alt="" />
            <RightCardContent
            color={props.color}
