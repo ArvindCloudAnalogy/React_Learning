@@ -1,0 +1,14 @@
+.red{
+    color :red;
+}
+
+.blue{
+    color: blue;
+}
+
+.divClass{
+    border:black solid 1px;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
