@@ -49,6 +49,13 @@ npm run dev
 - This repo is for learning and experimentation.
 - Avoid committing large production assets.
 
+## Today’s Work (March 18, 2026)
+- Documented activity in `05_Hooks_React`: reviewed and/or updated hook-based components and state management examples.
+- Documented activity in `06_UseState_basic`: checked app state behavior and component-level CSS styling.
+- Documented activity in `07_counter_App`: ensured counter functionality is working and code is clean.
+- Kept all previous sections and project info intact.
+- Verified environment info and guidance are up to date.
+
 ---
 
 Maintainer: `CA` (local workspace)
