@@ -49,14 +49,29 @@ npm run dev
 - This repo is for learning and experimentation.
 - Avoid committing large production assets.
 
-## Today’s Work (March 18, 2026)
-- Documented activity in `05_Hooks_React`: reviewed and/or updated hook-based components and state management examples.
-- Documented activity in `06_UseState_basic`: checked app state behavior and component-level CSS styling.
-- Documented activity in `07_counter_App`: ensured counter functionality is working and code is clean.
-- Kept all previous sections and project info intact.
-- Verified environment info and guidance are up to date.
+## Completed Projects
+Below is a quick tour of each project folder in this workspace and what was implemented so far.
 
----
+- `00_JS DOM`: Vanilla JavaScript examples covering DOM targeting, event listeners, form handling, and dynamic UI updates.
+  - `DOM` folder: basic DOM traversal, manipulation, class management.
+  - `Events` folder: click, mouse, keyboard, and form event patterns.
+  - `ToDoList` folder: add/remove tasks, mark complete, persistence logic practice.
+- `01_my-react-app`: Vite + React starter template with component structure and basic CSS.
+- `02_props`: reusable Card component + props drilling examples, layout using flexbox and card styling.
+- `03_card_mni_project/01_card_project`: small card UI project with dynamic data mapping and responsive cards.
+- `04_Ui_Project`: full UI build with user segmentation cards, overlays, color themes, and horizontal scrolling.
+- `05_Hooks_React`: hooks practice (useState/useEffect/useReducer patterns), derived state and side effects.
+- `06_UseState_basic`: building block useState examples, controlled inputs, toggles, and counters.
+- `07_counter_App`: interactive counter app with increment/decrement/reset flows and style variations.
+- `08_Form_Handling_React`: form fields, validation, controlled components, and submit handling.
+- `09_Notes_App`: note creation, edit and delete actions, ideally ready for localStorage integration.
+- `10_LocalStorage_React`: state persistence demo using localStorage, load/save lifecycle.
+- `11_Api_Calling`: data fetch examples with `fetch` / axios, loading states, and async handling.
+- `12_UseEffect_Understandings`: effect hooks deep dive, dependency arrays, and cleanup semantics.
+- `13_Gallery_Project`: image gallery components with filters, search, and grid layout.
+- `14_React_Router_DOM`: route setup, include layout components like Header.
+
+
 
 Maintainer: `CA` (local workspace)
 
