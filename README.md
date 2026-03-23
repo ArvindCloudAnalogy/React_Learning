@@ -73,5 +73,8 @@ Below is a quick tour of each project folder in this workspace and what was impl
 - `15_Advance_React_Routing`: advanced routing patterns including parameterized routes (`:id`), nested routes, layout persistence across pages, and wildcard 404 handling. Features Home, About, Courses with details view, and Product categories (Men, Women, Kids).
 - `16_UseContext_Hook`: Context API deep dive with ThemeContext implementation for global state management, demonstrating how to share data across component trees without prop drilling.
 
-Maintainer: `CA` (local workspace)
+
+# Basics of react completed going for project with typescript
+
+# Maintainer: `CA` (local workspace)
 
