@@ -9,6 +9,9 @@ This repository contains multiple React learning projects demonstrating core con
 - `CSS`: CSS-first React project with component-scoped styling.
 - `card_mni_project`: Card mini-project buildout.
 - `Function_with_React` (current working area): minimal function component scaffold.
+-`count App`
+-`Notes app`
+-`Gallery Project`
 
 ## System requirements
 - Node.js >= 18 (recommended)
