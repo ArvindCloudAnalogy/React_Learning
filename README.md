@@ -70,8 +70,8 @@ Below is a quick tour of each project folder in this workspace and what was impl
 - `12_UseEffect_Understandings`: effect hooks deep dive, dependency arrays, and cleanup semantics.
 - `13_Gallery_Project`: image gallery components with filters, search, and grid layout.
 - `14_React_Router_DOM`: route setup, include layout components like Header.
-
-
+- `15_Advance_React_Routing`: advanced routing patterns including parameterized routes (`:id`), nested routes, layout persistence across pages, and wildcard 404 handling. Features Home, About, Courses with details view, and Product categories (Men, Women, Kids).
+- `16_UseContext_Hook`: Context API deep dive with ThemeContext implementation for global state management, demonstrating how to share data across component trees without prop drilling.
 
 Maintainer: `CA` (local workspace)
 
