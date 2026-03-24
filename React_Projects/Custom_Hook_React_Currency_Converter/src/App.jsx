@@ -46,7 +46,7 @@ const App = () => {
           >
 
 <div className=" relative">
-  <h1 className='text-center text-xl font-bold mb-4 '>Currency Converter</h1>
+  <h1 className='text-center text-xl font-bold mb-4 '>Currency  Exchange</h1>
   <div className="mt-6 border-black border-3 rounded-2xl ">
 
     <InputBox
@@ -62,7 +62,7 @@ const App = () => {
 
 
 
-  <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-20">
+  <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/10.5 z-20">
     <button
       type="button"
       onClick={swap}
