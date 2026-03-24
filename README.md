@@ -52,7 +52,7 @@ npm run dev
 - This repo is for learning and experimentation.
 - Avoid committing large production assets.
 
-## Completed Projects
+## Completed React Fundamentals
 Below is a quick tour of each project folder in this workspace and what was implemented so far.
 
 - `00_JS DOM`: Vanilla JavaScript examples covering DOM targeting, event listeners, form handling, and dynamic UI updates.
