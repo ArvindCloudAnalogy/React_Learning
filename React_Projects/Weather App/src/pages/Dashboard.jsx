@@ -16,6 +16,7 @@ export default function Dashboard() {
             const weatherRes = await getWeather(searchCity);
             const forecastRes = await getForecast(searchCity);
 
+
             setWeather(weatherRes.data);
             setForecast(forecastRes.data.list);
             setCity(searchCity);
@@ -27,19 +28,13 @@ export default function Dashboard() {
     useEffect(() => {
         fetchWeather();
     }, []);
-
     return (
-        <div className="min-h-screen bg-blue-50 p-6">
-            <div className="grid grid-cols-12 gap-6">
-
-                <div className="col-span-10 flex flex-col gap-6">
-                    <Header fetchWeather={fetchWeather} />
-                    <CurrentWeather data={weather} />
-                    <Highlights data={weather} />
-                    <Forecast data={forecast} />                  
-
-
-                </div>
+        <div className="max-w-4xl mx-auto p-6">
+            <div className="flex flex-col gap-6">
+                <Header fetchWeather={fetchWeather} />
+                <CurrentWeather data={weather} />
+                <Highlights data={weather} />
+                <Forecast data={forecast} />
             </div>
         </div>
     );

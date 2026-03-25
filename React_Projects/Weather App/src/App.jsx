@@ -3,7 +3,7 @@ import Dashboard from "./pages/Dashboard";
 
 function App() {
   return (
-    <div>
+    <div className="min-h-screen bg-blue-50">
       <Dashboard />
     </div>
   )
